@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>給裕傑的情書 · CHOU 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=EB+Garamond:ital,wght@0,400;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css?v=20261108b">
+</head>
+<body>
+
+<div class="grain" aria-hidden="true"></div>
+
+<!-- 頂欄 -->
+<header class="topbar">
+  <button class="brand" id="brandBtn" type="button">給裕傑的情書</button>
+  <nav class="topnav">
+    <button type="button" data-goto="gallery">PROJECTS 作品</button>
+    <button type="button" data-goto="about">ABOUT 關於</button>
+  </nav>
+</header>
+
+<!-- 封面 Hero：整屏照片 + 左上標題 -->
+<section class="hero" id="hero">
+  <img class="hero-photo" id="heroPhoto" alt="">
+
+  <p class="hero-tag hero-tag-l">給裕傑的情書<br><span class="tag-en">A LETTER TO CHOU</span></p>
+  <p class="hero-tag hero-tag-r">PHOTOGRAPHY COLLECTION</p>
+
+  <button class="enter-hint" id="enterHint" type="button">
+    <span>ENTER GALLERY · 進入畫廊</span>
+    <span class="enter-arrow" aria-hidden="true">↓</span>
+  </button>
+</section>
+
+<!-- 畫廊：左 sticky 專案列表 + 右專案內容 -->
+<main class="gallery" id="gallery">
+  <div class="gallery-grid">
+    <aside class="proj-list">
+      <nav class="proj-nav" id="projNav"></nav>
+    </aside>
+    <div class="proj-col" id="projCol"></div>
+  </div>
+</main>
+
+<!-- 關於 -->
+<section class="about" id="about">
+  <div class="gallery-grid">
+    <aside class="proj-list">
+      <p class="list-label">PROFILE</p>
+    </aside>
+    <div class="about-body">
+      <h2 class="about-name">CHOU</h2>
+      <p class="about-line">這些地方曾經養育過我。所謂情書，不是寫給人的，是我對經歷的一切情感附著——有好有壞，皆是回信。</p>
+    </div>
+  </div>
+</section>
+
+<!-- 頁尾 -->
+<footer class="foot">
+  <div class="foot-col">
+    <p class="foot-label">SECTIONS</p>
+    <button type="button" data-goto="hero">COVER 返回封面</button>
+    <button type="button" data-goto="gallery">GALLERY 瀏覽畫廊</button>
+  </div>
+  <p class="foot-copy">© 2026 CHOU. ALL RIGHTS RESERVED.</p>
+  <button class="foot-top" id="backTop" type="button">BACK TO TOP 返回頂部</button>
+</footer>
+
+<!-- 單圖畫廊 -->
+<div class="lightbox" id="lightbox" hidden>
+  <button class="lb-btn lb-prev" id="lbPrev" type="button" aria-label="上一張">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14.5 5 L7.5 12 L14.5 19"/></svg>
+  </button>
+  <figure class="lb-figure">
+    <img id="lbImg" alt="">
+  </figure>
+  <button class="lb-btn lb-next" id="lbNext" type="button" aria-label="下一張">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9.5 5 L16.5 12 L9.5 19"/></svg>
+  </button>
+  <button class="lb-close" id="lbClose" type="button" aria-label="關閉">×</button>
+  <p class="lb-counter mono-meta" id="lbCounter"></p>
+</div>
+
+<script src="assets/app.js?v=20261108b"></script>
+</body>
+</html>

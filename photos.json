@@ -1,0 +1,541 @@
+{
+  "cover": "media/cover/R0035511.jpg",
+  "coverIsPlaceholder": false,
+  "categories": [
+    {
+      "id": "about",
+      "name": "About me",
+      "intro": "",
+      "photos": []
+    },
+    {
+      "id": "fenqiang",
+      "name": "粉牆黛瓦",
+      "intro": "白牆接住天光，黛瓦壓住陰影。江南的秩序與溫柔，都藏在這一橫一豎之間。",
+      "photos": [
+        {
+          "src": "media/fenqiang/IMG_1659.jpg",
+          "date": "2026.05",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "IMG_1659.jpg",
+          "w": 2000,
+          "h": 1500
+        },
+        {
+          "src": "media/fenqiang/IMG_1660.jpg",
+          "date": "2026.05",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "IMG_1660.jpg",
+          "w": 2000,
+          "h": 1500
+        },
+        {
+          "src": "media/fenqiang/IMG_1665.jpg",
+          "date": "2026.05",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "IMG_1665.jpg",
+          "w": 2000,
+          "h": 1500
+        },
+        {
+          "src": "media/fenqiang/IMG_1669.jpg",
+          "date": "2026.05",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "IMG_1669.jpg",
+          "w": 2000,
+          "h": 1500
+        },
+        {
+          "src": "media/fenqiang/R0036284.jpg",
+          "date": "2026.05",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "R0036284.jpg",
+          "w": 2000,
+          "h": 1500
+        }
+      ]
+    },
+    {
+      "id": "jinse",
+      "name": "都是金色",
+      "intro": "日落只有二十分鐘。它把所有的舊牆、灰塵和窗欞，一次性變成金色。",
+      "photos": [
+        {
+          "src": "media/jinse/R0041729.jpg",
+          "date": "",
+          "year": 2015,
+          "location": "",
+          "note": "",
+          "file": "R0041729.jpg",
+          "w": 2000,
+          "h": 1500,
+          "suspectDate": true
+        },
+        {
+          "src": "media/jinse/R0041745.jpg",
+          "date": "",
+          "year": 2015,
+          "location": "",
+          "note": "",
+          "file": "R0041745.jpg",
+          "w": 2000,
+          "h": 1500,
+          "suspectDate": true
+        },
+        {
+          "src": "media/jinse/R0041787.jpg",
+          "date": "",
+          "year": 2015,
+          "location": "",
+          "note": "",
+          "file": "R0041787.jpg",
+          "w": 1500,
+          "h": 2000,
+          "suspectDate": true
+        },
+        {
+          "src": "media/jinse/R0041811.jpg",
+          "date": "",
+          "year": 2015,
+          "location": "",
+          "note": "",
+          "file": "R0041811.jpg",
+          "w": 2000,
+          "h": 1500,
+          "suspectDate": true
+        },
+        {
+          "src": "media/jinse/R0041813.jpg",
+          "date": "",
+          "year": 2015,
+          "location": "",
+          "note": "",
+          "file": "R0041813.jpg",
+          "w": 2000,
+          "h": 1500,
+          "suspectDate": true
+        },
+        {
+          "src": "media/jinse/R0041831.jpg",
+          "date": "",
+          "year": 2015,
+          "location": "",
+          "note": "",
+          "file": "R0041831.jpg",
+          "w": 1500,
+          "h": 2000,
+          "suspectDate": true
+        }
+      ]
+    },
+    {
+      "id": "tingyuan",
+      "name": "閒庭院",
+      "intro": "院子是時間的容器：一株植物、一把竹椅，和一段沒有安排完的下午。",
+      "photos": [
+        {
+          "src": "media/tingyuan/R0041272.jpg",
+          "date": "2026.09",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "R0041272.jpg",
+          "w": 2000,
+          "h": 1500
+        },
+        {
+          "src": "media/tingyuan/R0041417.jpg",
+          "date": "2026.09",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "R0041417.jpg",
+          "w": 2000,
+          "h": 1500
+        },
+        {
+          "src": "media/tingyuan/R0041448.jpg",
+          "date": "2026.10",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "R0041448.jpg",
+          "w": 2000,
+          "h": 1500
+        },
+        {
+          "src": "media/tingyuan/R0041462.jpg",
+          "date": "2026.10",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "R0041462.jpg",
+          "w": 2000,
+          "h": 1500
+        },
+        {
+          "src": "media/tingyuan/R0041466.jpg",
+          "date": "2026.10",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "R0041466.jpg",
+          "w": 2000,
+          "h": 1500
+        },
+        {
+          "src": "media/tingyuan/R0041481.jpg",
+          "date": "2026.10",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "R0041481.jpg",
+          "w": 2000,
+          "h": 1500
+        }
+      ]
+    },
+    {
+      "id": "dasan",
+      "name": "大山",
+      "intro": "走得越高，聲音越少。山把時間拉長，把人的尺寸悄悄收回去。\n每一次抬頭，都是一次新的呼吸。",
+      "photos": [
+        {
+          "src": "media/dasan/R0040888.jpg",
+          "date": "2026.08",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "R0040888.jpg",
+          "w": 2000,
+          "h": 1500
+        },
+        {
+          "src": "media/dasan/R0040899.jpg",
+          "date": "2026.08",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "R0040899.jpg",
+          "w": 2000,
+          "h": 1500
+        },
+        {
+          "src": "media/dasan/R0041118.jpg",
+          "date": "2026.09",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "R0041118.jpg",
+          "w": 2000,
+          "h": 1500
+        },
+        {
+          "src": "media/dasan/R0041121.jpg",
+          "date": "2026.09",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "R0041121.jpg",
+          "w": 2000,
+          "h": 1500
+        },
+        {
+          "src": "media/dasan/R0041143.jpg",
+          "date": "2026.09",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "R0041143.jpg",
+          "w": 2000,
+          "h": 1500
+        },
+        {
+          "src": "media/dasan/R0041162.jpg",
+          "date": "2026.09",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "R0041162.jpg",
+          "w": 2000,
+          "h": 1500
+        },
+        {
+          "src": "media/dasan/R0041586.jpg",
+          "date": "",
+          "year": 2015,
+          "location": "",
+          "note": "",
+          "file": "R0041586.jpg",
+          "w": 2000,
+          "h": 1500,
+          "suspectDate": true
+        },
+        {
+          "src": "media/dasan/R0041606.jpg",
+          "date": "",
+          "year": 2015,
+          "location": "",
+          "note": "",
+          "file": "R0041606.jpg",
+          "w": 2000,
+          "h": 1500,
+          "suspectDate": true
+        },
+        {
+          "src": "media/dasan/R0041612.jpg",
+          "date": "",
+          "year": 2015,
+          "location": "",
+          "note": "",
+          "file": "R0041612.jpg",
+          "w": 2000,
+          "h": 1500,
+          "suspectDate": true
+        },
+        {
+          "src": "media/dasan/R0041616.jpg",
+          "date": "",
+          "year": 2015,
+          "location": "",
+          "note": "",
+          "file": "R0041616.jpg",
+          "w": 2000,
+          "h": 1500,
+          "suspectDate": true
+        }
+      ]
+    },
+    {
+      "id": "s4500",
+      "name": "四千五百",
+      "intro": "雪雲在腳下，陽光在耳邊——原來我想要的，真的都夠得著。",
+      "photos": [
+        {
+          "src": "media/s4500/IMG_0281-已增强-降噪-2.jpg",
+          "date": "2025.01",
+          "year": 2025,
+          "location": "",
+          "note": "",
+          "file": "IMG_0281-已增强-降噪-2.jpg",
+          "w": 2000,
+          "h": 1333
+        },
+        {
+          "src": "media/s4500/IMG_8658-已增强-降噪-3.jpg",
+          "date": "2025.01",
+          "year": 2025,
+          "location": "",
+          "note": "",
+          "file": "IMG_8658-已增强-降噪-3.jpg",
+          "w": 2000,
+          "h": 1333
+        },
+        {
+          "src": "media/s4500/IMG_8729-已增强-降噪-2.jpg",
+          "date": "2025.01",
+          "year": 2025,
+          "location": "",
+          "note": "",
+          "file": "IMG_8729-已增强-降噪-2.jpg",
+          "w": 2000,
+          "h": 1333
+        },
+        {
+          "src": "media/s4500/IMG_8795-已增强-降噪-2.jpg",
+          "date": "2025.01",
+          "year": 2025,
+          "location": "",
+          "note": "",
+          "file": "IMG_8795-已增强-降噪-2.jpg",
+          "w": 2000,
+          "h": 1414
+        },
+        {
+          "src": "media/s4500/IMG_9217-已增强-降噪-3.jpg",
+          "date": "2025.01",
+          "year": 2025,
+          "location": "",
+          "note": "",
+          "file": "IMG_9217-已增强-降噪-3.jpg",
+          "w": 2000,
+          "h": 1333
+        },
+        {
+          "src": "media/s4500/IMG_9439-2.jpg",
+          "date": "2025.01",
+          "year": 2025,
+          "location": "",
+          "note": "",
+          "file": "IMG_9439-2.jpg",
+          "w": 2000,
+          "h": 1333
+        }
+      ]
+    },
+    {
+      "id": "anotherhome",
+      "name": "另一個故鄉",
+      "intro": "在另一個故鄉下的蘭嶼和綠島，坐了很久，一直在感受自己。",
+      "photos": [
+        {
+          "src": "media/anotherhome/IMG_0247-已增强-降噪.jpg",
+          "date": "2025.08",
+          "year": 2025,
+          "location": "",
+          "note": "",
+          "file": "IMG_0247-已增强-降噪.jpg",
+          "w": 2000,
+          "h": 1333
+        },
+        {
+          "src": "media/anotherhome/IMG_0287-已增强-降噪.jpg",
+          "date": "2025.08",
+          "year": 2025,
+          "location": "",
+          "note": "",
+          "file": "IMG_0287-已增强-降噪.jpg",
+          "w": 2000,
+          "h": 1333
+        },
+        {
+          "src": "media/anotherhome/IMG_0359-已增强-降噪.jpg",
+          "date": "2025.08",
+          "year": 2025,
+          "location": "",
+          "note": "",
+          "file": "IMG_0359-已增强-降噪.jpg",
+          "w": 2000,
+          "h": 1333
+        },
+        {
+          "src": "media/anotherhome/IMG_0502-已增强-降噪.jpg",
+          "date": "2025.08",
+          "year": 2025,
+          "location": "",
+          "note": "",
+          "file": "IMG_0502-已增强-降噪.jpg",
+          "w": 2000,
+          "h": 1333
+        },
+        {
+          "src": "media/anotherhome/IMG_0503-已增强-降噪.jpg",
+          "date": "2025.08",
+          "year": 2025,
+          "location": "",
+          "note": "",
+          "file": "IMG_0503-已增强-降噪.jpg",
+          "w": 2000,
+          "h": 1333
+        },
+        {
+          "src": "media/anotherhome/IMG_1123-已增强-降噪.jpg",
+          "date": "2025.08",
+          "year": 2025,
+          "location": "",
+          "note": "",
+          "file": "IMG_1123-已增强-降噪.jpg",
+          "w": 2000,
+          "h": 1333
+        },
+        {
+          "src": "media/anotherhome/IMG_2649.jpg",
+          "date": "2025.09",
+          "year": 2025,
+          "location": "",
+          "note": "",
+          "file": "IMG_2649.jpg",
+          "w": 2000,
+          "h": 1333
+        },
+        {
+          "src": "media/anotherhome/R0020357.jpg",
+          "date": "2025.09",
+          "year": 2025,
+          "location": "",
+          "note": "",
+          "file": "R0020357.JPG",
+          "w": 2000,
+          "h": 1500
+        }
+      ]
+    },
+    {
+      "id": "snow",
+      "name": "雪",
+      "intro": "只有春天來的時候，心事和積雪一起化了",
+      "photos": [
+        {
+          "src": "media/snow/IMG_0066.jpg",
+          "date": "2026.01",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "IMG_0066.JPG",
+          "w": 2000,
+          "h": 1500
+        },
+        {
+          "src": "media/snow/IMG_0069.jpg",
+          "date": "2026.01",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "IMG_0069.JPG",
+          "w": 2000,
+          "h": 1500
+        },
+        {
+          "src": "media/snow/IMG_0073.jpg",
+          "date": "2026.01",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "IMG_0073.jpg",
+          "w": 2000,
+          "h": 1333
+        },
+        {
+          "src": "media/snow/IMG_0085.jpg",
+          "date": "2026.01",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "IMG_0085.jpg",
+          "w": 2000,
+          "h": 1333
+        },
+        {
+          "src": "media/snow/IMG_0109.jpg",
+          "date": "2026.01",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "IMG_0109.JPG",
+          "w": 2000,
+          "h": 1500
+        },
+        {
+          "src": "media/snow/IMG_0147.jpg",
+          "date": "2026.01",
+          "year": 2026,
+          "location": "",
+          "note": "",
+          "file": "IMG_0147.JPG",
+          "w": 2000,
+          "h": 1500
+        }
+      ]
+    }
+  ]
+}
